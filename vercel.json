@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/",
-      "destination": "https://cantonatotoamlapura.com/mobile/member/daftar.html?ref=gadss1/",
+      "source": "/(.*)",
+      "destination": "https://barleycake.com",
       "permanent": true
     }
   ]
